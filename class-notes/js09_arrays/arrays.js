@@ -14,7 +14,7 @@ console.log(typeof isimler);
 console.log(isimler.length);
 
 const bosDizi = [];
-console.log(bosDizi);
+const bosDizi = [];
 
 // ! 2.Yöntem (Object Constructor)
 const diller = new Array("C++", "javascript", "Assembly", "Go", "Ruby");
